@@ -22,10 +22,11 @@ Hi! I'm Ayesha, an aspiring Full Stack Developer currently learning modern web d
 ### 🚀 Currently Working On
 
 - 🌱 Learning React and modern frontend development
--  💻 Practicing JavaScript & TypeScript
+- 💻 Practicing JavaScript and TypeScript
 - 🎨 Building responsive interfaces with Tailwind CSS
--  🔧 Improving my Git & GitHub workflow
--  🚀 Exploring the path toward Full Stack Development
+- 🔧 Improving my Git & GitHub workflow
+- 🌐 Exploring Full Stack Web Development
+- 🧠 Improving my problem-solving skills
 
 ---
 
