@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Ayesha Siddika banner"/>
+<img src="./banner (2).png" width="100%" alt="Ayesha Siddika banner"/>
 
 </div>
 
