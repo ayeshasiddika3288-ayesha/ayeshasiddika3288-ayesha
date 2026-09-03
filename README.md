@@ -4,9 +4,10 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-2575fc?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+<h1 align="center">Hi 👋, I'm Ayesha Siddika</h1>
+<h3 align="center">Aspiring Full Stack Developer</h3>
+
+
 
 ---
 
