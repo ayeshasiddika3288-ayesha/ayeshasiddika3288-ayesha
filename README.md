@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Ayesha Siddika banner"/>
+<img src="./banner.png" width="100%" alt="Ayesha Siddika banner"/>
 
 </div>
 
@@ -33,35 +33,23 @@ I'm a Computer Science student currently in my final (8th of 9) semester of BSc 
 
 **Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 **CSS Frameworks & Libraries**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-**JavaScript Frameworks & Libraries**
+**Currently Learning**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux" />
-</p>
-
-**Database & Auth**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-<img src="https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
-
-**Design & Graphics**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/React-In_Progress-yellow?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 **Tools & Technologies**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-<img src="https://img.shields.io/badge/AI--Assisted_Coding-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -79,17 +67,11 @@ I'm a Computer Science student currently in my final (8th of 9) semester of BSc 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshasiddika3288-ayesha&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshasiddika3288-ayesha&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### 📌 Featured Projects
 
-Check out my pinned repositories below 👇
+Check out my pinned repositories below 👇 
 
 ---
 
