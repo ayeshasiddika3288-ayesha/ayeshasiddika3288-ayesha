@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science student currently in my final (8th of 9) semester of BSc in Computer Science and Engineering, after completing my Diploma in Computer Science and Technology. I love problem solving and picking up new technologies, and I'm working towards becoming a professional **Software Engineer**. Right now I'm focused on Full Stack Web Development — building real projects, sharpening my JavaScript/TypeScript, and getting comfortable with the tools professional developers use every day.
+Hi! I'm Ayesha, an aspiring Full Stack Developer currently learning modern web development. I'm building my skills in JavaScript, TypeScript, React, and other technologies used to create modern web applications. I enjoy learning new technologies, solving problems, and turning ideas into real projects. I'm currently focused on improving my frontend skills while gradually exploring backend development.
 
 - 🎓 Diploma in Computer Science and Technology (Completed) → BSc in Computer Science and Engineering (8th of 9 semesters)
 - 🎯 Goal: Becoming a professional Software Engineer
@@ -21,11 +21,11 @@ I'm a Computer Science student currently in my final (8th of 9) semester of BSc 
 
 ### 🚀 Currently Working On
 
-- ⚛️ Learning and practicing **React**
-- 💻 Building responsive, real-world web interfaces
-- 📘 Sharpening my **JavaScript** and **TypeScript** skills
-- 🔧 Practicing **Git & GitHub** workflows
-- 🌐 Exploring the Full Stack Web Development ecosystem end-to-end
+- 🌱 Learning React and modern frontend development
+-  💻 Practicing JavaScript & TypeScript
+- 🎨 Building responsive interfaces with Tailwind CSS
+-  🔧 Improving my Git & GitHub workflow
+-  🚀 Exploring the path toward Full Stack Development
 
 ---
 
