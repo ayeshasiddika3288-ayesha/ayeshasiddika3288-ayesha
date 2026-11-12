@@ -1,4 +1,4 @@
-![Ayesha Siddika banner](<banner (2).png>)
+![Ayesha Siddika Banner](banner.png)
 
 # Hi 👋, I'm Ayesha Siddika
 
@@ -8,47 +8,54 @@
 
 ### 👩‍💻 About Me
 
-Hi! I'm Ayesha, an aspiring Full Stack Developer currently learning modern web development. I'm building my skills in JavaScript, TypeScript, React, and other technologies used to create modern web applications. I enjoy learning new technologies, solving problems, and turning ideas into real projects. I'm currently focused on improving my frontend skills while gradually exploring backend development.
+Hi! I'm Ayesha Siddika, an aspiring Full Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy solving problems, exploring new technologies, and turning ideas into practical solutions.
 
-- 🎓 Diploma in Computer Science and Technology (Completed) → BSc in Computer Science and Engineering (8th of 9 semesters)
-- 🎯 Goal: Becoming a professional Software Engineer
-- 🧠 Passionate about problem solving & continuous learning
-- 📍 Hometown: Begumganj, Noakhali | Currently in: Uttara, Dhaka
+I'm continuously improving my development skills through hands-on projects, academic work, and collaborative development.
+
+- 🎓 Diploma in Computer Science and Technology (Completed)
+- 🎓 Currently pursuing BSc in Computer Science and Engineering (8th of 9 semesters)
+- 🎯 Goal: Becoming a professional Full Stack Developer
+- 🧠 Passionate about problem-solving and continuous learning
+- 📍 Based in Uttara, Dhaka, Bangladesh
+
+---
 
 ### 🚀 Currently Working On
 
-- 🌱 Learning React and modern frontend development
-- 💻 Practicing JavaScript and TypeScript
-- 🎨 Building responsive interfaces with Tailwind CSS
-- 🔧 Improving my Git & GitHub workflow
-- 🌐 Exploring Full Stack Web Development
-- 🧠 Improving my problem-solving skills
+- 🐝 Developing **NearBee** – a Hyperlocal Community Service Platform (Final Year Project).
+- 🤖 Working on **ShopPilot AI** – an AI-Powered Social-Commerce Management Platform (Software Development 3 Project).
+- 🌱 Exploring Next.js and modern web development.
+- 💻 Building applications with JavaScript, TypeScript, React, and Next.js.
+- 🎨 Creating responsive user interfaces with Tailwind CSS.
+- 🍃 Working with Node.js, Express.js, and MongoDB.
+- 🤝 Collaborating on university team projects.
 
 ---
 
 ### 🛠️ Technology Stack
 
-**Languages**
+**Programming Languages**
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,ts)
 
-**CSS Frameworks & Libraries**
+**Frontend Development**
 
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
-**Currently Learning**
+**Backend & Database**
 
-![React](https://skillicons.dev/icons?i=react) ![React Progress](https://img.shields.io/badge/React-In_Progress-yellow?style=for-the-badge&logo=react&logoColor=black)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 **Tools & Technologies**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
 ### 📊 GitHub Statistics
 
 ![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshasiddika3288-ayesha&show_icons=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshasiddika3288-ayesha&layout=compact&theme=radical&hide_border=true)
 
 ### 🔥 GitHub Streak
@@ -72,8 +79,8 @@ Check out my pinned repositories below 👇
 
 - 📧 Email: ayeshasiddika3288@gmail.com
 - 📍 Location: Uttara, Dhaka, Bangladesh
-- 💼 LinkedIn: https://www.linkedin.com/in/ayesha-siddika-cse
-- 🌐 Portfolio: https://ayesha-portfolio-b5ww.vercel.app/
+- 💼 LinkedIn: [Ayesha Siddika](https://www.linkedin.com/in/ayesha-siddika-cse)
+- 🌐 Portfolio: [Visit My Portfolio](https://ayesha-portfolio-b5ww.vercel.app/)
 
 ---
 
